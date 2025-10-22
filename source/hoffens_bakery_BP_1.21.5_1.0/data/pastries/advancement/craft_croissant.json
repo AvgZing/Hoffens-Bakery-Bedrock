@@ -1,0 +1,53 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bread",
+      "components": {
+        "minecraft:item_model": "pastries:croissant"
+      },
+      "count": 1
+    },
+    "title": {
+      "text": "Quasó",
+      "color": "#ebaf23"
+    },
+    "description": "Craft a Croissant using Wheat and Butter",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pastries:obtain_bakingbook",
+  "criteria": {
+    "has_butter": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:poisonous_potato",
+            "components": {
+              "minecraft:item_model": "pastries:butter"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe_id": "pastries:croissant"
+      },
+      "trigger": "minecraft:recipe_crafted"
+    }
+  },
+  "requirements": [
+    [
+      "has_butter"
+    ],
+    [
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [],
+    "experience": 100
+  }
+}

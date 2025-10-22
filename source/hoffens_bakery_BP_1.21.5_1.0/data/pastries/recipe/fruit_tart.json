@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ges",
+    "whb"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "b": [
+      "minecraft:poisonous_potato"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "h": [
+      "egg",
+      "blue_egg",
+      "brown_egg"
+    ],
+    "g": [
+      "minecraft:glow_berries"
+    ],
+    "e": [
+      "minecraft:sweet_berries"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:fruit_tart",
+      "minecraft:item_name": "Fruit Tart",
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 14.5
+      }
+    },
+    "count": 1
+  }
+}

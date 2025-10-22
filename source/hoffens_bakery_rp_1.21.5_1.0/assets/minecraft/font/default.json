@@ -1,0 +1,563 @@
+{
+    "providers": [
+        {
+            
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/alfajor.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/apple_pie.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/berry_pie.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/butter.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/carrot_cake.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/chorusfruit_pie.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/churro.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/concha.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/croissant.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/donut.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/eclair.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE010"
+            ]
+        },             
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/empanada.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/fruit_tart.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/glowberry_pie.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/honey_puff.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/lava_cake.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/macaron.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/mille_feuille.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/mooncake.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/paczek.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/poppy_seed_roll.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/princess_cake.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/sable.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/sugar_cube.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/taiyaki.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/turkish_delight.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/wheatman_cookie.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/wienerbrod.png",
+            "height": 11,
+            "ascent": 9,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_alfajor.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_apple_pie.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_berry_pie.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_butter.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_carrot_cake.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_chorusfruit_pie.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_churro.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_concha.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {           
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_croissant.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_donut.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_eclair.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_empanada.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_fruit_tart.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_glowberry_pie.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_honeypuff.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_lava_cake.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_macaron.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_mille_feuille.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_mooncake.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE046"
+            ]
+        },
+                {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_paczek.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_poppy_seed_roll.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_princess_cake.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_sable.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_sugar_cube.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_taiyaki.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_turkish_delight.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_ginger_cookie.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_wienerbrod.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_baking_whisk.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_baking_handkerchief_square.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_baking_handkerchief_floral.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_baking_handkerchief.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_baking_pin.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:baking_cookbook/recipe_bread_bag.png",
+            "height": 220,
+            "ascent": 100,
+            "chars": [
+                "\uE060"
+            ]
+        }
+    ]
+}

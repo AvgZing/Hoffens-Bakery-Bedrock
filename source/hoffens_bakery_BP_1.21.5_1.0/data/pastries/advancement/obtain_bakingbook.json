@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:book",
+      "components": {
+        "minecraft:item_model": "pastries:baking_cookbook"
+      },
+      "count": 1
+    },
+    "title": "Sweet Knowledge",
+    "description": "Obtain the Baking Cookbook by baking a book",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pastries:root",
+  "criteria": {
+    "has_bakingbook": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:written_book",
+            "components": {
+              "minecraft:item_model": "pastries:baking_cookbook"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_bakingbook"
+    ]
+  ],
+  "rewards": {
+    "recipes": [],
+    "experience": 100
+  }
+}

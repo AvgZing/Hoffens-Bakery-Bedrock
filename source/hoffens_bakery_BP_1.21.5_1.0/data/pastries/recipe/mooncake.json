@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " w ",
+    "wew",
+    "sps"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "e": [
+      "egg",
+      "blue_egg",
+      "brown_egg"
+    ],
+    "s": [
+      "minecraft:beetroot_seeds",
+      "minecraft:melon_seeds",
+      "minecraft:pumpkin_seeds"
+    ],
+    "p": [
+      "minecraft:pink_petals"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:mooncake",
+      "minecraft:item_name": "Mooncake",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 8
+      }
+    },
+    "count": 2
+  }
+}

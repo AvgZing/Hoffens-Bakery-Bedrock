@@ -1,0 +1,28 @@
+------------------------------------------
+Welcome to Hoffen's Bakery Datapack
+------------------------------------------
+
+Datapack and Resourcepack by Hoffen 
+
+Twitter: https://x.com/_InkGhoul
+Modrinth: https://modrinth.com/user/Hoffen
+Tumblr: ink-ghoul.tumblr.com
+Ko-Fi: ko-fi.com/hoffen
+
+Special thanks to the Artimators, the Nexus and the folks at my asks for the feedback.
+Special thanks to Eirian Kunehokki for coding the baking cookbook (https://x.com/kunehokki)
+
+------------------------------------------
+
+© 2025 Hoffen InkGhoul, All Rights Reserved
+
+- The art done for the items, models and assets in this datapack belong to the artist, Hoffen (@_InkGhoul)
+- Distribution for profit/commercial use is prohibited.
+- Do not re-upload this work to other websites.
+- Do not take elements from this datapack and resourcepack for your own (included, but not reserved to) pastry textures, 
+  recipe card textures, books, cosmetic models and textures.
+- Do not upload my models and textures to the Bedrock Marketplace.
+- Ask for explicit permission from the artist if you're modifiying this work.
+- It's okay to modify this work for personal use.
+
+------------------------------------------

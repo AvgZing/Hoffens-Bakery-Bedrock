@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "a": [
+      "minecraft:paper"
+    ],
+    "b": [
+      "minecraft:cookie",
+      "minecraft:golden_carrot",
+      "minecraft:bread",
+      "minecraft:pumpkin_pie"
+    ]
+  },
+  "pattern": [
+    "bbb",
+    "aba",
+    "aaa"
+  ],
+  "result": {
+    "components": {
+      "minecraft:item_model": "pastries:baking_bag",
+      "minecraft:item_name": "Bread Bag",
+      "minecraft:lore": [
+        "Looks good on the shelf"
+      ],
+      "minecraft:enchantment_glint_override": false,
+      "minecraft:equippable": {
+        "slot": "mainhand",
+        "asset_id": "pastries:baking_bag",
+        "allowed_entities": "minecraft:player",
+        "dispensable": false,
+        "swappable": false,
+        "damage_on_hurt": false,
+        "equip_on_interact": false
+      }
+    },
+    "count": 1,
+    "id": "minecraft:brown_bundle"
+  }
+}

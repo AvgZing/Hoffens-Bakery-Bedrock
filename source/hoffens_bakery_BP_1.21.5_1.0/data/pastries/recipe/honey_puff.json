@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "h",
+    "b"
+  ],
+  "key": {
+    "h": [
+      "minecraft:honeycomb"
+    ],
+    "b": [
+      "minecraft:bread"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:honey_puff",
+      "minecraft:item_name": "Honey Puff",
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation": 4
+      }
+    },
+    "count": 8
+  }
+}

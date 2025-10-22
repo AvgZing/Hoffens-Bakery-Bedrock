@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " qz",
+    "qz ",
+    "z  "
+  ],
+  "key": {
+    "q": [
+      "minecraft:sugar"
+    ],
+    "z": [
+      "minecraft:wheat"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:churro",
+      "minecraft:item_name": "Churro",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 10
+      }
+    },
+    "count": 4
+  }
+}

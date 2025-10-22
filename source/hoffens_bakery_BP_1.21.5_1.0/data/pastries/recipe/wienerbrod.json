@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " s ",
+    "wbw"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "b": [
+      "minecraft:chorus_fruit"
+    ]
+  },
+  "result": {
+    "id": "minecraft:cookie",
+    "components": {
+      "minecraft:item_model": "pastries:wienerbrod",
+      "minecraft:item_name": "Wienerbrød",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 6
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 2,
+        "animation": "eat",
+        "on_consume_effects": [
+          {
+            "type": "minecraft:teleport_randomly",
+            "diameter": 64
+          }
+        ]
+      },
+      "minecraft:lore": [
+        "Teleports randomly"
+      ]
+    },
+    "count": 8
+  }
+}

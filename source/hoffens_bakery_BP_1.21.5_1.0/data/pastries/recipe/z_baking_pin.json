@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "#minecraft:wooden_fences",
+    "I": "minecraft:stick"
+  },
+  "pattern": [
+    "I",
+    "#",
+    "I"
+  ],
+  "result": {
+    "components": {
+      "minecraft:item_model": "pastries:baking_pin",
+      "minecraft:item_name": "Rolling Pin",
+      "minecraft:lore": [
+        "Looks good on the counter"
+      ],
+      "minecraft:enchantment_glint_override": false,
+      "minecraft:enchantments": {
+        "minecraft:knockback": 4
+        
+      },
+      "minecraft:weapon": {
+        "item_damage_per_attack": 1
+      },
+      "minecraft:unbreakable": {},
+      "minecraft:tooltip_display": {
+        "hide_tooltip": false,
+        "hidden_components": [
+          "minecraft:enchantments"
+        ]
+      }
+    },
+    "count": 1,
+    "id": "minecraft:wooden_sword"
+  }
+}

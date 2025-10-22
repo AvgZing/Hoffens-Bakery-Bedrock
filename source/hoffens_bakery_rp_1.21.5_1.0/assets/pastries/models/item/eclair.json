@@ -1,0 +1,8 @@
+{
+	"credit": "by Hoffen _InkGhoul",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"particle": "pastries:item/eclair",
+		"layer0": "pastries:item/eclair"
+	}
+}

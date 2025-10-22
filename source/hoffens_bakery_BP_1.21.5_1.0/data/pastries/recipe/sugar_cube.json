@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ss",
+    "ss"
+  ],
+  "key": {
+    "s": [
+      "minecraft:sugar"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:sugar_cube",
+      "minecraft:item_name": "Sugar Cube",
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 1
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 1,
+        "animation": "eat",
+        "has_consume_particles": true,
+        "on_consume_effects": [
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:speed",
+                "amplifier": 2,
+                "duration": 200,
+                "show_particles": false,
+                "show_icon": true
+              }
+            ]
+          }
+        ]
+      },
+      "minecraft:lore": [
+        "Speed II 10s"
+      ]
+    },
+    "count": 2
+  }
+}

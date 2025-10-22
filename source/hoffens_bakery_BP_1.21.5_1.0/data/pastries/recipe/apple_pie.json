@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "as",
+    "wb"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "a": [
+      "minecraft:apple"
+    ],
+    "b": [
+      "minecraft:poisonous_potato"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ]
+  },
+  "result": {
+    "id": "minecraft:pumpkin_pie",
+    "components": {
+      "minecraft:item_model": "pastries:apple_pie",
+      "minecraft:item_name": "Apple Pie",
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 8
+      }
+    },
+    "count": 1
+  }
+}

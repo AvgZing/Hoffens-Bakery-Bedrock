@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "mcm",
+    "ses",
+    "www"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "e": [
+      "egg",
+      "blue_egg",
+      "brown_egg"
+    ],
+    "m": [
+      "minecraft:milk_bucket"
+    ],
+    "c": [
+      "minecraft:carrot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:carrot_cake",
+      "minecraft:item_name": "Carrot Cake",
+      "minecraft:food": {
+        "nutrition": 10,
+        "saturation": 12
+      }
+    },
+    "count": 4
+  }
+}

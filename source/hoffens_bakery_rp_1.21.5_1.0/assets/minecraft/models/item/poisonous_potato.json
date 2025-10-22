@@ -1,0 +1,7 @@
+{
+	"credit": "by Hoffen _InkGhoul",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "pastries:item/butter"
+	}
+}

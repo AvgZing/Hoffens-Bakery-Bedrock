@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ww",
+    "wbw",
+    " w "
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "b": [
+      "minecraft:hanging_roots"
+    ]
+  },
+  "result": {
+    "id": "minecraft:cookie",
+    "components": {
+      "minecraft:item_model": "pastries:wheatman_cookie",
+      "minecraft:item_name": "Ginger Cookie",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 4
+      }
+    },
+    "count": 16
+  }
+}

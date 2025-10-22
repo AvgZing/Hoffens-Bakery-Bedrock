@@ -1,0 +1,105 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "minecraft:book",
+  "result": {
+    "id": "minecraft:written_book",
+    "components": {
+      "minecraft:written_book_content": {
+        "pages": [
+          {
+            "raw": {"color": "#F6BB4D", "extra": [{"italic": true, "text": "Hoffen's", "color": "#F6BB4D"}, {"color": "#F6BB4D", "text": " "}, {"italic": true, "text": "Bakery", "color": "#F6BB4D"}, {"color": "#F6BB4D", "text": " ⭐"}, "\n", {"color": "#7EC595", "bold": true, "text": "  Baking Cookbook"}, "\n\n", {"color": "#C07327", "text": "      " }, {"color": "#C07327", "click_event": {"page": 40, "action": "change_page"}, "hover_event": {"value": "Go to credits!", "action": "show_text"}, "text": "▶ Credits ◀"}, "\n", {"color": "black", "text": "Book format by"}, {"italic": true, "click_event": {"url": "https://kunehokki.carrd.co/", "action": "open_url"}, "text": " Eirian Kunehokki", "hover_event": {"value": "Check out Eirian's Socials!", "action": "show_text"}, "color": "black"}, "\n\n", {"color": "#C07327", "text": "  "}, {"color": "#C07327", "click_event": {"page": 40, "action": "change_page"}, "hover_event": {"value": "Go to special thanks!", "action": "show_text"}, "text": "▶ Special Thanks ◀"}, "\n", {"color": "black", "text": "To the Nexus,\nArtimators,and the people in my tumblr asks."}, "\n", {"color": "#C07327", "text": "  "}, "\n", {"color": "#C07327", "text": "       "}, {"color": "#C07327", "click_event": {"page": 41, "action": "change_page"}, "hover_event": {"value": "Check out my socials!", "action": "show_text"}, "text": "▶ Socials ◀"}], "text": " ⭐ "}},
+          {
+            "raw": {"color": "#7EC595", "extra": [{"color": "#7EC595", "bold": true, "text": "Table of Contents"}, "\n", {"color": "#F6BB4D", "text": "      ⭐ Pastries ⭐"}, "\n\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 6, "action": "change_page"}, "hover_event": {"value": "How to bake Alfajors!", "action": "show_text"}, "text": "Alfajor"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 7, "action": "change_page"}, "hover_event": {"value": "How to bake an Apple Pie!", "action": "show_text"}, "text": "Apple Pie"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 8, "action": "change_page"}, "hover_event": {"value": "How to bake a Berry Pie!", "action": "show_text"}, "text": "Berry Pie"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 9, "action": "change_page"}, "hover_event": {"value": "How to make Butter!", "action": "show_text"}, "text": "Butter"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 10, "action": "change_page"}, "hover_event": {"value": "How to bake a Carrot Cake!", "action": "show_text"}, "text": "Carrot Cake"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 11, "action": "change_page"}, "hover_event": {"value": "How to bake a Chorusfruit Pie!", "action": "show_text"}, "text": "Chorusfruit Pie"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 12, "action": "change_page"}, "hover_event": {"value": "How to bake Churros!", "action": "show_text"}, "text": "Churro"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 13, "action": "change_page"}, "hover_event": {"value": "How to bake Conchas!", "action": "show_text"}, "text": "Concha"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 14, "action": "change_page"}, "hover_event": {"value": "How to bake a Croissant!", "action": "show_text"}, "text": "Croissant"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 15, "action": "change_page"}, "hover_event": {"value": "How to make Donuts!", "action": "show_text"}, "text": "Donut"}], "text": " "}},
+          {
+            "raw": {"extra": [{"color": "#7EC595", "bold": true, "text": "Table of Contents"}, "\n", {"color": "#F6BB4D", "text": "      ⭐ Pastries ⭐"}, "\n\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 16, "action": "change_page"}, "hover_event": {"value": "How to bake Éclairs!", "action": "show_text"}, "text": "Éclair"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 17, "action": "change_page"}, "hover_event": {"value": "How to bake Empanadas!", "action": "show_text"}, "text": "Empanada"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 18, "action": "change_page"}, "hover_event": {"value": "How to bake a Fruit Tart!", "action": "show_text"}, "text": "Fruit Tart"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 19, "action": "change_page"}, "hover_event": {"value": "How to bake a Glowberry Pie!", "action": "show_text"}, "text": "Glowberry Pie"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 20, "action": "change_page"}, "hover_event": {"value": "How to bake Honey Puffs!", "action": "show_text"}, "text": "Honey Puffs"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 21, "action": "change_page"}, "hover_event": {"value": "How to bake a Lava Cake!", "action": "show_text"}, "text": "Lava Cake"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 22, "action": "change_page"}, "hover_event": {"value": "How to bake Macarons!", "action": "show_text"}, "text": "Macaron"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 23, "action": "change_page"}, "hover_event": {"value": "How to bake Mille Feuille!", "action": "show_text"}, "text": "Mille Feuille"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 24, "action": "change_page"}, "hover_event": {"value": "How to bake a Mooncake!", "action": "show_text"}, "text": "Mooncake"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 25, "action": "change_page"}, "hover_event": {"value": "How to make a Pączek!", "action": "show_text"}, "text": "Pączek"}], "text": " "}},
+          {
+            "raw": {"extra": [{"color": "#7EC595", "bold": true, "text": "Table of Contents"}, "\n", {"color": "#F6BB4D", "text": "      ⭐ Pastries ⭐"}, "\n\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 26, "action": "change_page"}, "hover_event": {"value": "How to bake Poppy Seed Rolls!", "action": "show_text"}, "text": "Poppy Seed Roll"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 27, "action": "change_page"}, "hover_event": {"value": "How to bake a Princess Cake!", "action": "show_text"}, "text": "Princess Cake"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 28, "action": "change_page"}, "hover_event": {"value": "How to bake a Sable!", "action": "show_text"}, "text": "Sable"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 29, "action": "change_page"}, "hover_event": {"value": "How to make sugar cubes!", "action": "show_text"}, "text": "Sugar Cube"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 30, "action": "change_page"}, "hover_event": {"value": "How to bake Taiyaki!", "action": "show_text"}, "text": "Taiyaki"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 31, "action": "change_page"}, "hover_event": {"value": "How to bake Turkish Delights!", "action": "show_text"}, "text": "Turkish Delight"}, "\n", {"color": "white", "text": ""}, " ", {"color": "black", "click_event": {"page": 32, "action": "change_page"}, "hover_event": {"value": "How to bake Ginger Cookies!", "action": "show_text"}, "text": "Ginger Cookie"}, "\n", {"color": "white", "text": ""}, " ", {"click_event": {"page": 33, "action": "change_page"}, "hover_event": {"value": "How to bake a Wienerbrød!", "action": "show_text"}, "text": "Wienerbrød"}], "text": " "}}, 
+          {
+            "raw": {"color": "#7EC595", "extra": [{"color": "#7EC595", "bold": true, "text": "Table of Contents"}, "\n", {"color": "#F6BB4D", "text": "     ⭐ Cosmetics ⭐"}, "\n\n", {"color": "#7EC595", "text": "◆"}, " ", {"color": "black", "click_event": {"page": 34, "action": "change_page"}, "hover_event": {"value": "How to craft a Baking Pin!", "action": "show_text"}, "text": "Baking Pin"}, "\n", {"color": "#F6BB4D", "text": "◆ "}, {"color": "black", "click_event": {"page": 35, "action": "change_page"}, "hover_event": {"value": "How to craft a Baking Whisk!", "action": "show_text"}, "text": "Baking Whisk"}, "\n", {"color": "#7EC595", "text": "◆ "}, {"color": "black", "click_event": {"page": 36, "action": "change_page"}, "hover_event": {"value": "How to craft a Bread Bag!", "action": "show_text"}, "text": "Bread Bag"}, "\n", {"color": "#F6BB4D", "text": "◆ "}, {"color": "black", "click_event": {"page": 37, "action": "change_page"}, "hover_event": {"value": "How to craft a Baking Handkerchief!", "action": "show_text"}, "text": "Baking Handkerchief"}, "\n", {"color": "#7EC595", "text": "◆ "}, {"color": "black", "click_event": {"page": 38, "action": "change_page"}, "hover_event": {"value": "How to craft a Floral Handkerchief!", "action": "show_text"}, "text": "Floral Handkerchief"}, "\n", {"color": "#F6BB4D", "text": "◆ "}, {"color": "black", "click_event": {"page": 39, "action": "change_page"}, "hover_event": {"value": "How to craft a Plaid Handkerchief!", "action": "show_text"}, "text": "Plaid Handkerchief"}], "text": " "}}, 
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}}, 
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"color": "white", "text": ""}},
+          {
+            "raw": {"extra": [{"color": "#7EC595", "text": "▶ "}, {"color": "#7EC595", "bold": true, "text": "Credits "}, {"color": "#7EC595", "text": "◀"}, "\n\n ", {"color": "#FF9A99", "click_event": {"url": "https://kunehokki.carrd.co/", "action": "open_url"}, "hover_event": {"value": "Eirian's socials!", "action": "show_text"}, "text": "@kunehokki"}, " for  formatting and coding  the baking cookbook,  its format inspired by ", {"color": "#FF9A99", "click_event": {"url": "https://modrinth.com/datapack/joshs-more-foods", "action": "open_url"}, "hover_event": {"value": "Josh's More Foods Datapack!", "action": "show_text"}, "text": "Josh's Recipe Book"}, ".\n\nSpecial thanks again  to the ", {"italic": true, "text": "Nexus members"}, ",  ", {"italic": true, "text": "the Artimators"}, ", and    the folks in my inbox   for the feedback     and appreciation!"], "text": "      "}},
+          {
+            "raw": {"extra": [{"color": "#7EC595", "text": "▶ "}, {"color": "#7EC595", "bold": true, "text": "Socials "}, {"color": "#7EC595", "text": "◀"}, "\n\n     Datapack & Art\n        by Hoffen\n\n       ", {"color": "#F39C61", "text": "【Twitter】"}, "\n       ", {"color": "#F7AF62", "click_event": {"url": "https://x.com/_InkGhoul", "action": "open_url"}, "hover_event": {"value": "My Twitter!", "action": "show_text"}, "text": "@_InkGhoul"}, "\n\n       ", {"color": "#EF7F71", "text": "【Tumblr】"}, "\n      ", {"color": "#EB9D93", "click_event": {"url": "https://ink-ghoul.tumblr.com/", "action": "open_url"}, "hover_event": {"value": "My tumblr!", "action": "show_text"}, "text": " @ink-ghoul"}, "\n\n       ", {"color": "#909C1B", "text": "【Ko-Fi】"}, "\n        ", {"color": "#A9B345", "click_event": {"url": "https://ko-fi.com/hoffen", "action": "open_url"}, "hover_event": {"value": "My ko-fi!", "action": "show_text"}, "text": "@hoffen"}], "text": "      "}}
+        ],
+        "": "",
+        "title": "Baking Cookbook",
+        "author": "Hoffen",
+        "generation": 0
+      },
+      "minecraft:enchantment_glint_override": false,
+      "minecraft:rarity": "uncommon",
+      "minecraft:item_model": "pastries:baking_cookbook"
+    }
+  },
+  "experience": 1,
+  "cookingtime": 300
+}

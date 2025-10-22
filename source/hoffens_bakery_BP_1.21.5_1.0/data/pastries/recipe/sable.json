@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " s ",
+    "wbw"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "b": [
+      "minecraft:sweet_berries"
+    ]
+  },
+  "result": {
+    "id": "minecraft:cookie",
+    "components": {
+      "minecraft:item_model": "pastries:sable",
+      "minecraft:item_name": "Sablé",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 6
+      }
+    },
+    "count": 8
+  }
+}

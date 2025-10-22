@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "gs",
+    "wb"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "b": [
+      "minecraft:poisonous_potato"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "g": [
+      "minecraft:glow_berries"
+    ]
+  },
+  "result": {
+    "id": "minecraft:pumpkin_pie",
+    "components": {
+      "minecraft:item_model": "pastries:glowberry_pie",
+      "minecraft:item_name": "Glowberry Pie",
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 8
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 2,
+        "animation": "eat",
+        "has_consume_particles": true,
+        "on_consume_effects": [
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:glowing",
+                "amplifier": 1,
+                "duration": 400,
+                "show_particles": false,
+                "show_icon": true
+              }
+            ]
+          }
+        ]
+      },
+      "minecraft:lore": [
+        "Glowing effect 20s"
+      ]
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "gs",
+    "wb"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "b": [
+      "minecraft:poisonous_potato"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "g": [
+      "minecraft:chorus_fruit"
+    ]
+  },
+  "result": {
+    "id": "minecraft:pumpkin_pie",
+    "components": {
+      "minecraft:item_model": "pastries:chorusfruit_pie",
+      "minecraft:item_name": "Chorusfruit Pie",
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 8
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 2,
+        "animation": "eat",
+        "has_consume_particles": true,
+        "on_consume_effects": [
+          {
+            "type": "minecraft:teleport_randomly",
+            "diameter": 64
+          }
+        ]
+      },
+      "minecraft:lore": [
+        "Teleports randomly"
+      ]
+    },
+    "count": 1
+  }
+}

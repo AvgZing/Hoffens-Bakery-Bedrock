@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " w ",
+    "wbw",
+    " s "
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "b": [
+      "minecraft:sweet_berries"
+    ]
+  },
+  "result": {
+    "id": "minecraft:cookie",
+    "components": {
+      "minecraft:item_model": "pastries:empanada",
+      "minecraft:item_name": "Empanada",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 10
+      }
+    },
+    "count": 4
+  }
+}

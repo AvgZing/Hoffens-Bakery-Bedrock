@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food",
+  "category": "misc",
+  "pattern": [
+    "ww",
+    "wb"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "b": [
+      "minecraft:poisonous_potato"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:croissant",
+      "minecraft:item_name": "Croissant",
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 14
+      }
+    },
+    "count": 1
+  }
+}

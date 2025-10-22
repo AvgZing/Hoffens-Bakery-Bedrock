@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:copper_ingot",
+    "I": "minecraft:stick",
+    "X": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "X",
+    "#",
+    "I"
+  ],
+  "result": {
+    "components": {
+      "minecraft:item_model": "pastries:baking_whisk",
+      "minecraft:item_name": "Baking Whisk",
+      "minecraft:lore": [
+        "Looks good on the wall"
+      ],
+      "minecraft:enchantment_glint_override": false
+    },
+    "count": 1,
+    "id": "minecraft:brush"
+  }
+}

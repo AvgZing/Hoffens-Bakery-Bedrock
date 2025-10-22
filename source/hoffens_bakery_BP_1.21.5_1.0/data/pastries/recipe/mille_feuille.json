@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "scs",
+    "mem",
+    "www"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ],
+    "m": [
+      "minecraft:milk_bucket"
+    ],
+    "c": [
+      "minecraft:cocoa_beans"
+    ],
+    "e": [
+      "egg",
+      "blue_egg",
+      "brown_egg"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:mille_feuille",
+      "minecraft:item_name": "Mille-Feuille",
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 12
+      }
+    },
+    "count": 4
+  }
+}

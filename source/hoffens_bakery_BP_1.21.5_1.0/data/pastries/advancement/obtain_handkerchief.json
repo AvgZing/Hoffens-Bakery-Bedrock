@@ -1,0 +1,615 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_helmet",
+      "components": {
+        "minecraft:item_model": "pastries:baking_handkerchief_cyan"
+      },
+      "count": 1
+    },
+    "title": "Dressed for the occasion",
+    "description": "Obtain a Baking Handkerchief",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pastries:obtain_bakingbook",
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_aqua"
+            }
+          }
+        ]
+      }
+    },
+    "b": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_black"
+            }
+          }
+        ]
+      }
+    },
+    "c": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_blue"
+            }
+          }
+        ]
+      }
+    },
+    "d": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_brown"
+            }
+          }
+        ]
+      }
+    },
+    "e": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_cyan"
+            }
+          }
+        ]
+      }
+    },
+    "f": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral"
+            }
+          }
+        ]
+      }
+    },
+    "g": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_aqua"
+            }
+          }
+        ]
+      }
+    },
+    "h": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_black"
+            }
+          }
+        ]
+      }
+    },
+    "i": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_blue"
+            }
+          }
+        ]
+      }
+    },
+    "j": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_brown"
+            }
+          }
+        ]
+      }
+    },
+    "k": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_cyan"
+            }
+          }
+        ]
+      }
+    },
+    "l": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_green"
+            }
+          }
+        ]
+      }
+    },
+    "m": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_lime"
+            }
+          }
+        ]
+      }
+    },
+    "n": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_magenta"
+            }
+          }
+        ]
+      }
+    },
+    "o": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_orange"
+            }
+          }
+        ]
+      }
+    },
+    "p": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_pink"
+            }
+          }
+        ]
+      }
+    },
+    "q": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_purple"
+            }
+          }
+        ]
+      }
+    },
+    "r": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_red"
+            }
+          }
+        ]
+      }
+    },
+    "s": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_floral_yellow"
+            }
+          }
+        ]
+      }
+    },
+    "t": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_green"
+            }
+          }
+        ]
+      }
+    },
+    "u": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_lime"
+            }
+          }
+        ]
+      }
+    },
+    "v": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_magenta"
+            }
+          }
+        ]
+      }
+    },
+    "w": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_orange"
+            }
+          }
+        ]
+      }
+    },
+    "x": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_pink"
+            }
+          }
+        ]
+      }
+    },
+    "y": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_purple"
+            }
+          }
+        ]
+      }
+    },
+    "z": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_red"
+            }
+          }
+        ]
+      }
+    },
+    "ab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square"
+            }
+          }
+        ]
+      }
+    },
+    "ac": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_aqua"
+            }
+          }
+        ]
+      }
+    },
+    "ad": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_black"
+            }
+          }
+        ]
+      }
+    },
+    "ae": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_blue"
+            }
+          }
+        ]
+      }
+    },
+    "af": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_brown"
+            }
+          }
+        ]
+      }
+    },
+    "ag": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_cyan"
+            }
+          }
+        ]
+      }
+    },
+    "ah": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_green"
+            }
+          }
+        ]
+      }
+    },
+    "ai": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_lime"
+            }
+          }
+        ]
+      }
+    },
+    "aj": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_magenta"
+            }
+          }
+        ]
+      }
+    },
+    "ak": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_orange"
+            }
+          }
+        ]
+      }
+    },
+    "al": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_pink"
+            }
+          }
+        ]
+      }
+    },
+    "am": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_purple"
+            }
+          }
+        ]
+      }
+    },
+    "an": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_red"
+            }
+          }
+        ]
+      }
+    },
+    "ao": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_square_yellow"
+            }
+          }
+        ]
+      }
+    },
+    "ap": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief_yellow"
+            }
+          }
+        ]
+      }
+    },
+    "has_hat": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_model": "pastries:baking_handkerchief"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_hat",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p",
+      "q",
+      "r",
+      "s",
+      "t",
+      "u",
+      "v",
+      "w",
+      "x",
+      "y",
+      "z",
+      "ab",
+      "ac",
+      "ad",
+      "ae",
+      "af",
+      "ag",
+      "ah",
+      "ai",
+      "aj",
+      "ak",
+      "al",
+      "am",
+      "an",
+      "ao",
+      "ap"
+    ]
+  ],
+  "rewards": {
+    "recipes": [],
+    "experience": 100
+  }
+}

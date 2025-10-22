@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "sw",
+    "wb"
+  ],
+  "key": {
+    "w": [
+      "minecraft:wheat"
+    ],
+    "b": [
+      "minecraft:milk_bucket"
+    ],
+    "s": [
+      "minecraft:sugar"
+    ]
+  },
+  "result": {
+    "id": "minecraft:golden_carrot",
+    "components": {
+      "minecraft:item_model": "pastries:paczek",
+      "minecraft:item_name": "Pączek",
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 10
+      }
+    },
+    "count": 4
+  }
+}

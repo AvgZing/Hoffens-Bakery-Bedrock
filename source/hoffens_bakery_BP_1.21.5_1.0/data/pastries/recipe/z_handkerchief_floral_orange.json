@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "www",
+    "wbw"
+  ],
+  "key": {
+    "w": [
+      "minecraft:orange_wool"
+    ],
+    "b": [
+      "minecraft:flower_banner_pattern"
+    ]
+  },
+  "result": {
+    "id": "minecraft:leather_horse_armor",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "head",
+        "allowed_entities": "minecraft:player",
+        "dispensable": true,
+        "swappable": true,
+        "damage_on_hurt": false
+      },
+      "minecraft:item_model": "pastries:baking_handkerchief_floral_orange",
+      "minecraft:item_name": "Baker's Handkerchief",
+      "minecraft:max_stack_size": 1,
+      "minecraft:lore": [
+        "Very cute",
+        "Prevents burning"
+      ],
+      "minecraft:enchantments": {
+        "minecraft:fire_protection": 7
+      },
+      "minecraft:enchantment_glint_override": false,
+      "minecraft:tooltip_display": {
+        "hide_tooltip": false,
+        "hidden_components": [
+          "minecraft:enchantments"
+        ]
+      }
+    }
+  }
+}

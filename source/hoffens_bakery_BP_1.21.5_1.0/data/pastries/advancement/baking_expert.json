@@ -1,0 +1,271 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:cake",
+      "components": {
+        "minecraft:item_model": "pastries:baking_pin"
+      },
+      "count": 1
+    },
+    "title": {
+      "text": "The Great Minecraft Bake Off",
+      "color": "#23cbb1"
+    },
+    "description": "Craft every pastry recipe",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pastries:craft_croissant",
+  "criteria": {
+    "alfajor": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:alfajor"
+      }
+    },
+    "apple_pie": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:apple_pie"
+      }
+    },
+    "berry_pie": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:berry_pie"
+      }
+    },
+    "carrot_cake": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:carrot_cake"
+      }
+    },
+    "chorusfruit_pie": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:chorusfruit_pie"
+      }
+    },
+    "churro": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:churro"
+      }
+    },
+    "concha": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:concha"
+      }
+    },
+    "croissant": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:croissant"
+      }
+    },
+    "donut": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:donut"
+      }
+    },
+    "eclair": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:eclair"
+      }
+    },
+    "empanada": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:empanada"
+      }
+    },
+    "fruit_tart": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:fruit_tart"
+      }
+    },
+    "ginger_cookie": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:ginger_cookie"
+      }
+    },
+    "glowberry_pie": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:glowberry_pie"
+      }
+    },
+    "honey_puff": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:honey_puff"
+      }
+    },
+    "lava_cake": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:lava_cake"
+      }
+    },
+    "macaron": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:macaron"
+      }
+    },
+    "mille_feuille": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:mille_feuille"
+      }
+    },
+    "mooncake": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:mooncake"
+      }
+    },
+    "paczek": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:paczek"
+      }
+    },
+    "poppyseed_roll": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:poppy_seed_roll"
+      }
+    },
+    "princess_cake": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:princess_cake"
+      }
+    },
+    "sable": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:sable"
+      }
+    },
+    "sugar_cube": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:sugar_cube"
+      }
+    },
+    "taiyaki": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:taiyaki"
+      }
+    },
+    "turkish_delight": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:turkish_delight"
+      }
+    },
+    "wienerbrod": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pastries:wienerbrod"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "alfajor"
+    ],
+    [
+      "apple_pie"
+    ],
+    [
+      "berry_pie"
+    ],
+    [
+      "carrot_cake"
+    ],
+    [
+      "chorusfruit_pie"
+    ],
+    [
+      "churro"
+    ],
+    [
+      "concha"
+    ],
+    [
+      "croissant"
+    ],
+    [
+      "donut"
+    ],
+    [
+      "eclair"
+    ],
+    [
+      "empanada"
+    ],
+    [
+      "fruit_tart"
+    ],
+    [
+      "ginger_cookie"
+    ],
+    [
+      "glowberry_pie"
+    ],
+    [
+      "honey_puff"
+    ],
+    [
+      "lava_cake"
+    ],
+    [
+      "macaron"
+    ],
+    [
+      "mille_feuille"
+    ],
+    [
+      "mooncake"
+    ],
+    [
+      "paczek"
+    ],
+    [
+      "poppyseed_roll"
+    ],
+    [
+      "princess_cake"
+    ],
+    [
+      "sable"
+    ],
+    [
+      "sugar_cube"
+    ],
+    [
+      "taiyaki"
+    ],
+    [
+      "turkish_delight"
+    ],
+    [
+      "wienerbrod"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  }
+}

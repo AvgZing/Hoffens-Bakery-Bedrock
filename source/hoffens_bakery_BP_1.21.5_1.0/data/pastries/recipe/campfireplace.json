@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": [
+    "minecraft:golden_carrot",
+    "minecraft:bread",
+    "minecraft:pumpkin_pie",
+    "minecraft:cookie",
+    "minecraft:poisonous_potato"
+  ],
+  "result": {
+    "id": "minecraft:charcoal"
+  },
+  "experience": 0,
+  "cookingtime": 10000
+}

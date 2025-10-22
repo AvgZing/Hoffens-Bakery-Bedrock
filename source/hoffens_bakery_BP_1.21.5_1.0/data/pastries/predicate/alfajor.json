@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:bread",
+      "count": 1
+    },
+    "title": "Sweet Knowledge",
+    "description": "Get yourself a copy of The Baking Cookbook ",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "pastries:root",
+  "criteria": {
+    "has_croissant": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:golden_carrot",
+            "components": {
+              "minecraft:item_model": "pastries:croissant"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_croissant"
+    ]
+  ],
+  "rewards": {
+    "recipes": [],
+    "experience": 2
+  }
+}
