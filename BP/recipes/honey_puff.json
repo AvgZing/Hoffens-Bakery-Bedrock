@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:honey_puff"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"h",
+			"b"
+		],
+		"key": {
+			"h": {
+				"item": "minecraft:honeycomb"
+			},
+			"b": {
+				"item": "minecraft:bread"
+			}
+		},
+		"result": {
+			"item": "pastries:honey_puff",
+			"count": 8
+		}
+	}
+}

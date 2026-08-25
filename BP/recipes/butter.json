@@ -4,8 +4,17 @@
 		"description": {
 			"identifier": "pastries:butter"
 		},
-		"tags": ["crafting_table"],
-		"ingredients": [{"item": "minecraft:milk_bucket"}],
-		"result": {"item": "pastries:butter", "count": 16}
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:milk_bucket"
+			}
+		],
+		"result": {
+			"item": "pastries:butter",
+			"count": 16
+		}
 	}
 }

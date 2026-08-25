@@ -4,14 +4,30 @@
 		"description": {
 			"identifier": "pastries:apple_pie"
 		},
-		"tags": ["crafting_table"],
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"as",
+			"wb"
+		],
 		"key": {
-			"w":{"item": "minecraft:wheat"},
-			"a":{"item": "minecraft:apple"},
-			"b":{"item": "pastries:butter"},
-			"s":{"item": "minecraft:sugar"}
+			"a": {
+				"item": "minecraft:apple"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "pastries:butter"
+			}
 		},
-		"pattern": ["as","wb"],
-		"result": {"item": "pastries:apple_pie","count": 1}
+		"result": {
+			"item": "pastries:apple_pie",
+			"count": 1
+		}
 	}
 }

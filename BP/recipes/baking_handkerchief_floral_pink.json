@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:baking_handkerchief_floral_pink"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"wbw"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:pink_wool"
+			},
+			"b": {
+				"item": "minecraft:flower_banner_pattern"
+			}
+		},
+		"result": {
+			"item": "pastries:baking_handkerchief_floral_pink",
+			"count": 1
+		}
+	}
+}

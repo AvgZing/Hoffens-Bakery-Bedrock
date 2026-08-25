@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:wheatman_cookie"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" ww",
+			"wbw",
+			" w "
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "minecraft:hanging_roots"
+			}
+		},
+		"result": {
+			"item": "pastries:wheatman_cookie",
+			"count": 16
+		}
+	}
+}

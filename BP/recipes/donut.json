@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:donut"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ccc",
+			"w w",
+			"www"
+		],
+		"key": {
+			"c": {
+				"item": "minecraft:cocoa_beans"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"result": {
+			"item": "pastries:donut",
+			"count": 2
+		}
+	}
+}

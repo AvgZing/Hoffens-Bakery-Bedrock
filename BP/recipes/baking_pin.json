@@ -1,0 +1,63 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:baking_pin"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"I",
+			"#",
+			"I"
+		],
+		"key": {
+			"I": {
+				"item": "minecraft:stick"
+			},
+			"#": [
+				{
+					"item": "minecraft:oak_fence"
+				},
+				{
+					"item": "minecraft:spruce_fence"
+				},
+				{
+					"item": "minecraft:birch_fence"
+				},
+				{
+					"item": "minecraft:jungle_fence"
+				},
+				{
+					"item": "minecraft:acacia_fence"
+				},
+				{
+					"item": "minecraft:dark_oak_fence"
+				},
+				{
+					"item": "minecraft:mangrove_fence"
+				},
+				{
+					"item": "minecraft:cherry_fence"
+				},
+				{
+					"item": "minecraft:pale_oak_fence"
+				},
+				{
+					"item": "minecraft:crimson_fence"
+				},
+				{
+					"item": "minecraft:warped_fence"
+				},
+				{
+					"item": "minecraft:bamboo_fence"
+				}
+			]
+		},
+		"result": {
+			"item": "pastries:baking_pin",
+			"count": 1
+		}
+	}
+}

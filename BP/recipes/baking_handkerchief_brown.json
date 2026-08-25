@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:baking_handkerchief_brown"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"w w"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:brown_wool"
+			}
+		},
+		"result": {
+			"item": "pastries:baking_handkerchief_brown",
+			"count": 1
+		}
+	}
+}

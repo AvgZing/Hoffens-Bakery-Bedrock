@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:glowberry_pie"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"gs",
+			"wb"
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:glow_berries"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "pastries:butter"
+			}
+		},
+		"result": {
+			"item": "pastries:glowberry_pie",
+			"count": 1
+		}
+	}
+}

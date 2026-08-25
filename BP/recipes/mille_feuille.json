@@ -1,0 +1,45 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:mille_feuille"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"scs",
+			"mem",
+			"www"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"c": {
+				"item": "minecraft:cocoa_beans"
+			},
+			"m": {
+				"item": "minecraft:milk_bucket"
+			},
+			"e": [
+				{
+					"item": "minecraft:egg"
+				},
+				{
+					"item": "minecraft:blue_egg"
+				},
+				{
+					"item": "minecraft:brown_egg"
+				}
+			],
+			"w": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"result": {
+			"item": "pastries:mille_feuille",
+			"count": 4
+		}
+	}
+}

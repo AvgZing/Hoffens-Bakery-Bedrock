@@ -1,0 +1,22 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "pastries:wienerbrod",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "pastries_wienerbrod",
+			"minecraft:use_modifiers": {
+				"use_duration": 2
+			},
+			"minecraft:food": {
+				"nutrition": 6,
+				"saturation_modifier": 6
+			},
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

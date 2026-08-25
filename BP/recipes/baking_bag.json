@@ -1,0 +1,111 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:baking_bag"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"bbb",
+			"aba",
+			"aaa"
+		],
+		"key": {
+			"b": [
+				{
+					"item": "pastries:alfajor"
+				},
+				{
+					"item": "pastries:apple_pie"
+				},
+				{
+					"item": "pastries:berry_pie"
+				},
+				{
+					"item": "pastries:butter"
+				},
+				{
+					"item": "pastries:carrot_cake"
+				},
+				{
+					"item": "pastries:churro"
+				},
+				{
+					"item": "pastries:chorusfruit_pie"
+				},
+				{
+					"item": "pastries:concha"
+				},
+				{
+					"item": "pastries:croissant"
+				},
+				{
+					"item": "pastries:donut"
+				},
+				{
+					"item": "pastries:eclair"
+				},
+				{
+					"item": "pastries:empanada"
+				},
+				{
+					"item": "pastries:fruit_tart"
+				},
+				{
+					"item": "pastries:glowberry_pie"
+				},
+				{
+					"item": "pastries:honey_puff"
+				},
+				{
+					"item": "pastries:lava_cake"
+				},
+				{
+					"item": "pastries:macaron"
+				},
+				{
+					"item": "pastries:mille_feuille"
+				},
+				{
+					"item": "pastries:mooncake"
+				},
+				{
+					"item": "pastries:paczek"
+				},
+				{
+					"item": "pastries:poppy_seed_roll"
+				},
+				{
+					"item": "pastries:princess_cake"
+				},
+				{
+					"item": "pastries:sable"
+				},
+				{
+					"item": "pastries:sugar_cube"
+				},
+				{
+					"item": "pastries:taiyaki"
+				},
+				{
+					"item": "pastries:turkish_delight"
+				},
+				{
+					"item": "pastries:wheatman_cookie"
+				},
+				{
+					"item": "pastries:wienerbrod"
+				}
+			],
+			"a": {
+				"item": "minecraft:paper"
+			}
+		},
+		"result": {
+			"item": "pastries:baking_bag",
+			"count": 1
+		}
+	}
+}

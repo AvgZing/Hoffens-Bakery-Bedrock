@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:churro"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" qz",
+			"qz ",
+			"z  "
+		],
+		"key": {
+			"q": {
+				"item": "minecraft:sugar"
+			},
+			"z": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"result": {
+			"item": "pastries:churro",
+			"count": 4
+		}
+	}
+}

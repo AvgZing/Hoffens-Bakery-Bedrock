@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:poppy_seed_roll"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ppw",
+			"pww"
+		],
+		"key": {
+			"p": {
+				"item": "minecraft:poppy"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"result": {
+			"item": "pastries:poppy_seed_roll",
+			"count": 1
+		}
+	}
+}

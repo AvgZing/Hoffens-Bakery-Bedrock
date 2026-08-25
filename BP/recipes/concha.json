@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:concha"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  s",
+			" sw",
+			"sww"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			}
+		},
+		"result": {
+			"item": "pastries:concha",
+			"count": 1
+		}
+	}
+}

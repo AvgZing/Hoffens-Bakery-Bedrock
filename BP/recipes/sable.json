@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:sable"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" s ",
+			"wbw"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "minecraft:sweet_berries"
+			}
+		},
+		"result": {
+			"item": "pastries:sable",
+			"count": 8
+		}
+	}
+}

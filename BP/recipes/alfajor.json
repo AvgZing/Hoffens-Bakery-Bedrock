@@ -4,20 +4,25 @@
 		"description": {
 			"identifier": "pastries:alfajor"
 		},
-		"tags": ["crafting_table"],
-		"key": {   
-			 "w": {
-      "item":"minecraft:wheat"
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"w",
+			"c",
+			"w"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"c": {
+				"item": "minecraft:cocoa_beans"
+			}
 		},
-    "c": {
-      "item":"minecraft:cocoa_beans"
-		}},
-		"pattern": [    "w",
-    "c",
-    "w"],
 		"result": {
-			"item":"pastries:alfajor",
-			"count":8
+			"item": "pastries:alfajor",
+			"count": 8
 		}
 	}
 }

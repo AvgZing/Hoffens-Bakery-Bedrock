@@ -4,15 +4,42 @@
 		"description": {
 			"identifier": "pastries:carrot_cake"
 		},
-		"tags": ["crafting_table"],
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"mcm",
+			"ses",
+			"www"
+		],
 		"key": {
-			"w":{"item": "minecraft:wheat"},
-			"s":{"item": "minecraft:sugar"},
-			"e":{"item":"minecraft:egg",
-				"item":"minecraft:blue_egg",
-				"item":"minecraft:brown_egg"}
+			"m": {
+				"item": "minecraft:milk_bucket"
+			},
+			"c": {
+				"item": "minecraft:carrot"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"e": [
+				{
+					"item": "minecraft:egg"
+				},
+				{
+					"item": "minecraft:blue_egg"
+				},
+				{
+					"item": "minecraft:brown_egg"
+				}
+			],
+			"w": {
+				"item": "minecraft:wheat"
+			}
 		},
-		"pattern": [],
-		"result": {}
+		"result": {
+			"item": "pastries:carrot_cake",
+			"count": 4
+		}
 	}
 }

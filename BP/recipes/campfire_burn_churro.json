@@ -1,0 +1,13 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "pastries:campfire_burn_churro"
+		},
+		"tags": [
+			"campfire"
+		],
+		"input": "pastries:churro",
+		"output": "minecraft:charcoal"
+	}
+}

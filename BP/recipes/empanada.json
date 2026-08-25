@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:empanada"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" w ",
+			"wbw",
+			" s "
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "minecraft:sweet_berries"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			}
+		},
+		"result": {
+			"item": "pastries:empanada",
+			"count": 4
+		}
+	}
+}

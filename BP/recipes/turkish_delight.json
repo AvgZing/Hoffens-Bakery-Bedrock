@@ -1,0 +1,26 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "pastries:turkish_delight"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sugar"
+			},
+			{
+				"item": "minecraft:bone_meal"
+			},
+			{
+				"item": "minecraft:rose_bush"
+			}
+		],
+		"result": {
+			"item": "pastries:turkish_delight",
+			"count": 4
+		}
+	}
+}

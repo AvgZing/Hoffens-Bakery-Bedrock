@@ -15,12 +15,12 @@
 			"minecraft:food": {
 				"nutrition": 1,
 				"saturation_modifier": 1,
-				"effects":[
+				"effects": [
 					{
 						"name": "nausea",
-						"chance": 1.0,
+						"chance": 1,
 						"duration": 200,
-						"amplifier": 1 
+						"amplifier": 1
 					}
 				]
 			},

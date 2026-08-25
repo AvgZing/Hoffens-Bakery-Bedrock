@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "pastries:sugar_cube",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "pastries_sugar_cube",
+			"minecraft:use_modifiers": {
+				"use_duration": 1
+			},
+			"minecraft:food": {
+				"nutrition": 1,
+				"saturation_modifier": 1,
+				"effects": [
+					{
+						"name": "speed",
+						"chance": 1,
+						"duration": 200,
+						"amplifier": 2
+					}
+				]
+			},
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:fruit_tart"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ges",
+			"whb"
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:glow_berries"
+			},
+			"e": {
+				"item": "minecraft:sweet_berries"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"h": [
+				{
+					"item": "minecraft:egg"
+				},
+				{
+					"item": "minecraft:blue_egg"
+				},
+				{
+					"item": "minecraft:brown_egg"
+				}
+			],
+			"b": {
+				"item": "pastries:butter"
+			}
+		},
+		"result": {
+			"item": "pastries:fruit_tart",
+			"count": 1
+		}
+	}
+}

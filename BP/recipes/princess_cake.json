@@ -1,0 +1,56 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:princess_cake"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"sfs",
+			"ses",
+			"wmw"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"f": [
+				{
+					"item": "minecraft:orange_tulip"
+				},
+				{
+					"item": "minecraft:pink_tulip"
+				},
+				{
+					"item": "minecraft:red_tulip"
+				},
+				{
+					"item": "minecraft:white_tulip"
+				}
+			],
+			"e": [
+				{
+					"item": "minecraft:egg"
+				},
+				{
+					"item": "minecraft:blue_egg"
+				},
+				{
+					"item": "minecraft:brown_egg"
+				}
+			],
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"m": {
+				"item": "minecraft:milk_bucket"
+			}
+		},
+		"result": {
+			"item": "pastries:princess_cake",
+			"count": 4
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:chorusfruit_pie"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"gs",
+			"wb"
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:chorus_fruit"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "pastries:butter"
+			}
+		},
+		"result": {
+			"item": "pastries:chorusfruit_pie",
+			"count": 1
+		}
+	}
+}

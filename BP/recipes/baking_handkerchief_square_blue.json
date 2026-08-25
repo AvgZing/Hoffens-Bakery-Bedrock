@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:baking_handkerchief_square_blue"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"wbw"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:blue_wool"
+			},
+			"b": {
+				"item": "minecraft:field_masoned_banner_pattern"
+			}
+		},
+		"result": {
+			"item": "pastries:baking_handkerchief_square_blue",
+			"count": 1
+		}
+	}
+}

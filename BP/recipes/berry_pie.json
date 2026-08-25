@@ -4,14 +4,30 @@
 		"description": {
 			"identifier": "pastries:berry_pie"
 		},
-		"tags": ["crafting_table"],
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"es",
+			"wb"
+		],
 		"key": {
-			"w":{"item": "minecraft:wheat"},
-			"b":{"item": "pastries:butter"},
-			"s":{"item": "minecraft:sugar"},
-			"e":{"item": "minecraft:sweet_berries"}
+			"e": {
+				"item": "minecraft:sweet_berries"
+			},
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "pastries:butter"
+			}
 		},
-		"pattern": ["es","wb"],
-		"result": {"item": "pastries:berry_pie","count": 1}
+		"result": {
+			"item": "pastries:berry_pie",
+			"count": 1
+		}
 	}
 }

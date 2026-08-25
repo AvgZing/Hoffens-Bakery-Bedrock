@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:wienerbrod"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" s ",
+			"wbw"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			},
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "minecraft:chorus_fruit"
+			}
+		},
+		"result": {
+			"item": "pastries:wienerbrod",
+			"count": 8
+		}
+	}
+}

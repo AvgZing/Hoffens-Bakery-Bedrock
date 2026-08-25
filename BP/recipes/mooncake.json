@@ -1,0 +1,50 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:mooncake"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" w ",
+			"wew",
+			"sps"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"e": [
+				{
+					"item": "minecraft:egg"
+				},
+				{
+					"item": "minecraft:blue_egg"
+				},
+				{
+					"item": "minecraft:brown_egg"
+				}
+			],
+			"s": [
+				{
+					"item": "minecraft:beetroot_seeds"
+				},
+				{
+					"item": "minecraft:melon_seeds"
+				},
+				{
+					"item": "minecraft:pumpkin_seeds"
+				}
+			],
+			"p": {
+				"item": "minecraft:pink_petals"
+			}
+		},
+		"result": {
+			"item": "pastries:mooncake",
+			"count": 2
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "pastries:campfire_burn_sugar_cube"
+		},
+		"tags": [
+			"campfire"
+		],
+		"input": "pastries:sugar_cube",
+		"output": "minecraft:charcoal"
+	}
+}

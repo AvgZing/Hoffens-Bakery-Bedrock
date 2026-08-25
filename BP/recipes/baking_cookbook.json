@@ -1,0 +1,13 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "pastries:baking_cookbook"
+		},
+		"tags": [
+			"furnace"
+		],
+		"input": "minecraft:book",
+		"output": "pastries:baking_cookbook"
+	}
+}

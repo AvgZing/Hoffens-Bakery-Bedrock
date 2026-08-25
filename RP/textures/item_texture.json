@@ -16,6 +16,216 @@
 		},
 		"pastries_carrot_cake": {
 			"textures": "textures/items/carrot_cake"
+		},
+		"pastries_churro": {
+			"textures": "textures/items/churro"
+		},
+		"pastries_chorusfruit_pie": {
+			"textures": "textures/items/chorusfruit_pie"
+		},
+		"pastries_concha": {
+			"textures": "textures/items/concha"
+		},
+		"pastries_croissant": {
+			"textures": "textures/items/croissant"
+		},
+		"pastries_donut": {
+			"textures": "textures/items/donut"
+		},
+		"pastries_eclair": {
+			"textures": "textures/items/eclair"
+		},
+		"pastries_empanada": {
+			"textures": "textures/items/empanada"
+		},
+		"pastries_fruit_tart": {
+			"textures": "textures/items/fruit_tart"
+		},
+		"pastries_glowberry_pie": {
+			"textures": "textures/items/glowberry_pie"
+		},
+		"pastries_honey_puff": {
+			"textures": "textures/items/honey_puff"
+		},
+		"pastries_lava_cake": {
+			"textures": "textures/items/lava_cake"
+		},
+		"pastries_macaron": {
+			"textures": "textures/items/macaron"
+		},
+		"pastries_mille_feuille": {
+			"textures": "textures/items/mille_feuille"
+		},
+		"pastries_mooncake": {
+			"textures": "textures/items/mooncake"
+		},
+		"pastries_paczek": {
+			"textures": "textures/items/paczek"
+		},
+		"pastries_poppy_seed_roll": {
+			"textures": "textures/items/poppy_seed_roll"
+		},
+		"pastries_princess_cake": {
+			"textures": "textures/items/princess_cake"
+		},
+		"pastries_sable": {
+			"textures": "textures/items/sable"
+		},
+		"pastries_sugar_cube": {
+			"textures": "textures/items/sugar_cube"
+		},
+		"pastries_taiyaki": {
+			"textures": "textures/items/taiyaki"
+		},
+		"pastries_turkish_delight": {
+			"textures": "textures/items/turkish_delight"
+		},
+		"pastries_wheatman_cookie": {
+			"textures": "textures/items/wheatman_cookie"
+		},
+		"pastries_wienerbrod": {
+			"textures": "textures/items/wienerbrod"
+		},
+		"pastries_baking_cookbook": {
+			"textures": "textures/items/baking_cookbook"
+		},
+		"pastries_baking_bag": {
+			"textures": "textures/items/baking_bag"
+		},
+		"pastries_baking_hat": {
+			"textures": "textures/items/baking_hat"
+		},
+		"pastries_baking_pin": {
+			"textures": "textures/items/baking_pin"
+		},
+		"pastries_baking_whisk": {
+			"textures": "textures/items/baking_whisk"
+		},
+		"pastries_baking_handkerchief": {
+			"textures": "textures/items/baking_handkerchief"
+		},
+		"pastries_baking_handkerchief_aqua": {
+			"textures": "textures/items/baking_handkerchief_aqua"
+		},
+		"pastries_baking_handkerchief_black": {
+			"textures": "textures/items/baking_handkerchief_black"
+		},
+		"pastries_baking_handkerchief_blue": {
+			"textures": "textures/items/baking_handkerchief_blue"
+		},
+		"pastries_baking_handkerchief_brown": {
+			"textures": "textures/items/baking_handkerchief_brown"
+		},
+		"pastries_baking_handkerchief_cyan": {
+			"textures": "textures/items/baking_handkerchief_cyan"
+		},
+		"pastries_baking_handkerchief_green": {
+			"textures": "textures/items/baking_handkerchief_green"
+		},
+		"pastries_baking_handkerchief_lime": {
+			"textures": "textures/items/baking_handkerchief_lime"
+		},
+		"pastries_baking_handkerchief_magenta": {
+			"textures": "textures/items/baking_handkerchief_magenta"
+		},
+		"pastries_baking_handkerchief_orange": {
+			"textures": "textures/items/baking_handkerchief_orange"
+		},
+		"pastries_baking_handkerchief_pink": {
+			"textures": "textures/items/baking_handkerchief_pink"
+		},
+		"pastries_baking_handkerchief_purple": {
+			"textures": "textures/items/baking_handkerchief_purple"
+		},
+		"pastries_baking_handkerchief_red": {
+			"textures": "textures/items/baking_handkerchief_red"
+		},
+		"pastries_baking_handkerchief_yellow": {
+			"textures": "textures/items/baking_handkerchief_yellow"
+		},
+		"pastries_baking_handkerchief_floral": {
+			"textures": "textures/items/baking_handkerchief_floral"
+		},
+		"pastries_baking_handkerchief_floral_aqua": {
+			"textures": "textures/items/baking_handkerchief_floral_aqua"
+		},
+		"pastries_baking_handkerchief_floral_black": {
+			"textures": "textures/items/baking_handkerchief_floral_black"
+		},
+		"pastries_baking_handkerchief_floral_blue": {
+			"textures": "textures/items/baking_handkerchief_floral_blue"
+		},
+		"pastries_baking_handkerchief_floral_brown": {
+			"textures": "textures/items/baking_handkerchief_floral_brown"
+		},
+		"pastries_baking_handkerchief_floral_cyan": {
+			"textures": "textures/items/baking_handkerchief_floral_cyan"
+		},
+		"pastries_baking_handkerchief_floral_green": {
+			"textures": "textures/items/baking_handkerchief_floral_green"
+		},
+		"pastries_baking_handkerchief_floral_lime": {
+			"textures": "textures/items/baking_handkerchief_floral_lime"
+		},
+		"pastries_baking_handkerchief_floral_magenta": {
+			"textures": "textures/items/baking_handkerchief_floral_magenta"
+		},
+		"pastries_baking_handkerchief_floral_orange": {
+			"textures": "textures/items/baking_handkerchief_floral_orange"
+		},
+		"pastries_baking_handkerchief_floral_pink": {
+			"textures": "textures/items/baking_handkerchief_floral_pink"
+		},
+		"pastries_baking_handkerchief_floral_purple": {
+			"textures": "textures/items/baking_handkerchief_floral_purple"
+		},
+		"pastries_baking_handkerchief_floral_red": {
+			"textures": "textures/items/baking_handkerchief_floral_red"
+		},
+		"pastries_baking_handkerchief_floral_yellow": {
+			"textures": "textures/items/baking_handkerchief_floral_yellow"
+		},
+		"pastries_baking_handkerchief_square": {
+			"textures": "textures/items/baking_handkerchief_square"
+		},
+		"pastries_baking_handkerchief_square_aqua": {
+			"textures": "textures/items/baking_handkerchief_square_aqua"
+		},
+		"pastries_baking_handkerchief_square_black": {
+			"textures": "textures/items/baking_handkerchief_square_black"
+		},
+		"pastries_baking_handkerchief_square_blue": {
+			"textures": "textures/items/baking_handkerchief_square_blue"
+		},
+		"pastries_baking_handkerchief_square_brown": {
+			"textures": "textures/items/baking_handkerchief_square_brown"
+		},
+		"pastries_baking_handkerchief_square_cyan": {
+			"textures": "textures/items/baking_handkerchief_square_cyan"
+		},
+		"pastries_baking_handkerchief_square_green": {
+			"textures": "textures/items/baking_handkerchief_square_green"
+		},
+		"pastries_baking_handkerchief_square_lime": {
+			"textures": "textures/items/baking_handkerchief_square_lime"
+		},
+		"pastries_baking_handkerchief_square_magenta": {
+			"textures": "textures/items/baking_handkerchief_square_magenta"
+		},
+		"pastries_baking_handkerchief_square_orange": {
+			"textures": "textures/items/baking_handkerchief_square_orange"
+		},
+		"pastries_baking_handkerchief_square_pink": {
+			"textures": "textures/items/baking_handkerchief_square_pink"
+		},
+		"pastries_baking_handkerchief_square_purple": {
+			"textures": "textures/items/baking_handkerchief_square_purple"
+		},
+		"pastries_baking_handkerchief_square_red": {
+			"textures": "textures/items/baking_handkerchief_square_red"
+		},
+		"pastries_baking_handkerchief_square_yellow": {
+			"textures": "textures/items/baking_handkerchief_square_yellow"
 		}
 	}
 }

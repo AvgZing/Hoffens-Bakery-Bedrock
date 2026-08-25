@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:sugar_cube"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ss",
+			"ss"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			}
+		},
+		"result": {
+			"item": "pastries:sugar_cube",
+			"count": 2
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:croissant"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ww",
+			"wb"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:wheat"
+			},
+			"b": {
+				"item": "pastries:butter"
+			}
+		},
+		"result": {
+			"item": "pastries:croissant",
+			"count": 1
+		}
+	}
+}

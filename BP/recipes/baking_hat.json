@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:baking_hat"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"www",
+			"w w",
+			"w w"
+		],
+		"key": {
+			"w": {
+				"item": "minecraft:white_wool"
+			}
+		},
+		"result": {
+			"item": "pastries:baking_hat",
+			"count": 1
+		}
+	}
+}
