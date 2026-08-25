@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:alfajor"
+		},
+		"tags": ["crafting_table"],
+		"key": {   
+			 "w": {
+      "item":"minecraft:wheat"
+		},
+    "c": {
+      "item":"minecraft:cocoa_beans"
+		}},
+		"pattern": [    "w",
+    "c",
+    "w"],
+		"result": {
+			"item":"pastries:alfajor",
+			"count":8
+		}
+	}
+}

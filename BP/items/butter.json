@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "pastries:butter",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "pastries_butter",
+			"minecraft:use_modifiers": {
+				"use_duration": 5
+			},
+			"minecraft:food": {
+				"nutrition": 1,
+				"saturation_modifier": 1,
+				"effects":[
+					{
+						"name": "nausea",
+						"chance": 1.0,
+						"duration": 200,
+						"amplifier": 1 
+					}
+				]
+			},
+			"minecraft:use_animation": "eat"
+		}
+	}
+}

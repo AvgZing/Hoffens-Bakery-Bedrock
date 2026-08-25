@@ -1,0 +1,17 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:apple_pie"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"w":{"item": "minecraft:wheat"},
+			"a":{"item": "minecraft:apple"},
+			"b":{"item": "pastries:butter"},
+			"s":{"item": "minecraft:sugar"}
+		},
+		"pattern": ["as","wb"],
+		"result": {"item": "pastries:apple_pie","count": 1}
+	}
+}

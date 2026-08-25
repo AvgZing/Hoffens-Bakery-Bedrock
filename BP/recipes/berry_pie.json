@@ -1,0 +1,17 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:berry_pie"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"w":{"item": "minecraft:wheat"},
+			"b":{"item": "pastries:butter"},
+			"s":{"item": "minecraft:sugar"},
+			"e":{"item": "minecraft:sweet_berries"}
+		},
+		"pattern": ["es","wb"],
+		"result": {"item": "pastries:berry_pie","count": 1}
+	}
+}

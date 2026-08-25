@@ -1,0 +1,18 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pastries:carrot_cake"
+		},
+		"tags": ["crafting_table"],
+		"key": {
+			"w":{"item": "minecraft:wheat"},
+			"s":{"item": "minecraft:sugar"},
+			"e":{"item":"minecraft:egg",
+				"item":"minecraft:blue_egg",
+				"item":"minecraft:brown_egg"}
+		},
+		"pattern": [],
+		"result": {}
+	}
+}

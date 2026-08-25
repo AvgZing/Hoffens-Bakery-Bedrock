@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"AvgZing"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.51"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Hoffen's Bakery - Bedrock",
+		"description": "AvgZing's Port of Hoffen's Bakery to Bedrock",
+		"min_engine_version": [
+			1,
+			21,
+			70
+		],
+		"uuid": "9d3e7762-b44f-4d43-a679-3ddac6d519c5",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "8e6d4a93-48a8-4f7d-ab56-35dafce4bb09",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "2c2cf6ff-b154-4994-93ff-83f6bb58225b",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
